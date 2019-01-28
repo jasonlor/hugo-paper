@@ -3,16 +3,16 @@
 
 name = "Paper"
 license = "MIT"
-licenselink = "https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE"
+licenselink = "https://github.com/jasonlor/hugo-paper/blob/master/LICENSE"
 description = "A simple, clean, flexible Hugo theme"
-homepage = "https://github.com/nanxiaobei/hugo-paper/"
+homepage = "https://github.com/jasonlor/hugo-paper/"
 tags = ["Responsive", "Simple", "Clean", "Light", "White", "Blog"]
 features = ["Responsive", "One Column", "Blog"]
 min_version = "0.1"
 
 [author]
-  name = "21beats"
-  homepage = "http://21beats.com/"
+  name = "Jason Lor"
+  homepage = "https://jasonlor.com/"
 
 # If porting an existing theme
 [original]

@@ -1,8 +1,9 @@
+/* @override 
+	https://jasonlor.com/css/style.css */
+
 /*
  * Paper v2.0
  * A simple & clean hugo theme
- * Designed by 21beats (http://21beats.com)
- * Updated in 2018.8.16
  */
 
 /* Reset
@@ -89,6 +90,7 @@ pre, code {
   padding-left: 30px;
   padding-right: 30px;
   line-height: 65px;
+  max-width:  60em;
 }
 .home .header {
   background: #fff;
@@ -99,6 +101,7 @@ pre, code {
   font-size: 24px;
   font-weight: 700;
   line-height: 35px;
+  color:  #CCC;
 }
 .noscroll {
   overflow: hidden;

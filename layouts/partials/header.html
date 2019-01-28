@@ -38,7 +38,6 @@
   {{ end }}
 </head>
 <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
-<main class="main">
   <header class="header">
     {{ if .IsHome }}
     <h1 class="title"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></h1>
@@ -57,3 +56,4 @@
       </ul>
     </nav>
   </header>
+  <main class="main">
